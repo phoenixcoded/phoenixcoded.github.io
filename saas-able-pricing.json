@@ -1,1 +1,14 @@
-{}
+[
+  {
+    price: 69,
+    offerPrice: 59
+  },
+  {
+    price: 129,
+    offerPrice: 119
+  },
+  {
+    price: 599,
+    offerPrice: 549
+  }
+]
